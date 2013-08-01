@@ -3,5 +3,8 @@
     <version>1</version>
     <dependencies>
         <dependency>profile-plone.app.dexterity:default</dependency>
+        <dependency>profile-wcc.theme:default</dependency>
+        <dependency>profile-wcc.homepage:default</dependency>
+        <dependency>profile-wcc.books:default</dependency>
     </dependencies>
 </metadata>

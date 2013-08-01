@@ -33,6 +33,9 @@ setup(name='wcc.publicationspolicy',
           'collective.dexteritytextindexer',
           'plone.app.multilingual',
           'plone.multilingualbehavior',
+          'wcc.books',
+          'wcc.theme',
+          'wcc.homepage',
           # -*- Extra requirements: -*-
       ],
       extras_require={
