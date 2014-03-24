@@ -36,6 +36,7 @@ setup(name='wcc.publicationspolicy',
           'wcc.books',
           'wcc.theme',
           'wcc.homepage',
+          'eea.facetednavigation',
           # -*- Extra requirements: -*-
       ],
       extras_require={

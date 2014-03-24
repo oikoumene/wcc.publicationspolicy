@@ -6,5 +6,7 @@
         <dependency>profile-wcc.theme:default</dependency>
         <dependency>profile-wcc.homepage:default</dependency>
         <dependency>profile-wcc.books:default</dependency>
+        <dependency>profile-wcc.homepage:default</dependency>
+        <dependency>profile-eea.facetednavigation:default</dependency>
     </dependencies>
 </metadata>
