@@ -8,5 +8,6 @@
         <dependency>profile-wcc.books:default</dependency>
         <dependency>profile-wcc.homepage:default</dependency>
         <dependency>profile-eea.facetednavigation:default</dependency>
+        <dependency>profile-wcc.carousel:default</dependency>
     </dependencies>
 </metadata>

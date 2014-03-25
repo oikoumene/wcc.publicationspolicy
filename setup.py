@@ -37,6 +37,7 @@ setup(name='wcc.publicationspolicy',
           'wcc.theme',
           'wcc.homepage',
           'eea.facetednavigation',
+          'wcc.carousel',
           # -*- Extra requirements: -*-
       ],
       extras_require={
